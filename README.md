@@ -2,7 +2,6 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>Blender Script Library README Links</title>
 </head>
 <body>
     <h3>Blender 脚本库 README 链接</h3>
